@@ -2,7 +2,7 @@
   "name": "my-redux-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/wunderkind6089/Partypoll",
+  "homepage": "https://wunderkind6089.github.io/Partypoll/",
   "dependencies": {
     "bootstrap": "^4.3.1",
     "gh-pages": "^2.0.1",
